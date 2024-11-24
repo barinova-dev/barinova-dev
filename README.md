@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
-<!--
-**barinova-dev/barinova-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm Milana👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">📖 Python Developer | 📚 Learning Frontend Development</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👩‍💻 About me:
+
+**<div align="center">I'm a beginner Frontend Developer, Python Developer. Currently getting secondary education..</div>**
+
+---
+
+## 🛠 My skills:
+
+<div>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
